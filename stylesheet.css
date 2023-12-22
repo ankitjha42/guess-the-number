@@ -1,0 +1,84 @@
+.body{
+    color: white;
+}
+
+.box{
+    border-style: solid;
+    height: 700px;
+    width: 1200px;
+    margin: 150px;
+    margin-top: 80px;
+    margin-right: 30px;
+    background-color: black;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+
+.again{
+    font-size: 50px;
+    background-color: rgb(77, 173, 8);
+    text-rendering: geometricPrecision;
+    color: whitesmoke;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.guessmyno{
+    margin-left: 275px;
+    font-size: xx-large;
+    
+}
+
+.number{
+   font-size: 80px;
+   border-style: solid GRAY;
+   background-color: GRAY;
+   width: 80PX;
+   text-align: center;
+   position: relative;
+   left: 550PX;
+   bottom: 40PX;
+   
+}
+.entery{
+    font-size: 50px;
+    width: 25%;
+    border-style: solid;
+    color: rgb(242, 119, 74);
+    background-color: black;
+    margin-left: 25px;
+
+}
+
+.check{
+    font-size: 50px;
+    width: 25%;
+    border-style: solid;
+    background-color: rgb(86, 82, 82);
+    margin-left: 25px;
+    margin-top: 25px;
+    color: white;
+}
+.main{
+    display: flex;
+}
+
+.message{
+    font-size: 45px;
+    margin-left: 400px;
+}
+
+.score{
+    font-size: 45px;
+    margin-left: 800px;
+}
+
+.highscore{
+    font-size: 45px;
+    margin-left: 800px;
+}
